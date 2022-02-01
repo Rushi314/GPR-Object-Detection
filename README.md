@@ -23,7 +23,7 @@ https://github.com/yukkyo/voc2coco.
 
 #### GANs results:
 
-![](GAN results.png)
+![](GAN_results.png)
 
 ### Hyperbola detection:
 - Code: GPR_MMDetection_v0.022.ipynb
