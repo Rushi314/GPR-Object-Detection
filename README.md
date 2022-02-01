@@ -35,4 +35,4 @@ as backbone gave the best results.
 - We finetuned FRCNN with both real images and fake images from GANs
 - Achieved mAP 0.90 in detecting hyperbolas 
 
-![](FRCNN-RESULTS.png)
+![](FRCNN_RESULTS.png)
